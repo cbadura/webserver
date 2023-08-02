@@ -4,11 +4,11 @@ You can make GET, POST, and DELETE requests.
 Php and python CGIs are working.
 To change the default config, just edit the file (e.g. set auto index on and off, set the body size for POST requests, etc.)
 
-Installation:
+## Installation:
 
 make
 
-Usage:
+## Usage:
 
 ./webserv \[ config file if you have one, without argument the default config will be loaded ]
 
