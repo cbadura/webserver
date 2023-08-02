@@ -14,3 +14,6 @@ make
 
 Use curl or your web browser with localhost:PORT (default is 8080) to see the index page.
 - localhost:8080/upload.html lets you upload files. You can delete them or download them again.
+
+![image](https://github.com/cbadura/webserver/assets/93912698/5bf51b46-2c4f-42f6-9eaf-902397fdd741)
+
